@@ -1,3 +1,4 @@
+Samuel 20222105
 Markdown Cheatsheet<a name="TOP"></a>
 ===================
 
@@ -158,4 +159,5 @@ Emoji:
 
     Markup : Code appears between colons :EMOJICODE:
     
-:mask: 
+:mask:
+⌘
