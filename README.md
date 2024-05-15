@@ -1,3 +1,5 @@
+//20222110 Shuzixian
+
 Markdown Cheatsheet<a name="TOP"></a>
 ===================
 
@@ -43,8 +45,7 @@ ___Strong emphasized text___
     Markup :  ___Strong emphasized text___ or ***Strong emphasized text***
 
 [Named Link](http://www.google.fr/ "Named link title") and http://www.google.fr/ or <http://example.com/>
-
-    Markup :  [Named Link](http://www.google.fr/ "Named link title") and http://www.google.fr/ or <http://example.com/>
+Markup :  [Named Link](http://www.google.fr/ "Named link title") and http://www.google.fr/ or <http://example.com/>
 
 [heading-1](#heading-1 "Goto heading-1")
     
@@ -159,3 +160,5 @@ Emoji:
     Markup : Code appears between colons :EMOJICODE:
     
 :mask: 
+
+
